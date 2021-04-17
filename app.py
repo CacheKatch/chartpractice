@@ -34,4 +34,4 @@ def graphdata(stock):
 
 for stock in stock_list:
     graphdata(stock)
-    time.sleep(120)
+    #time.sleep(120) # for Heroku deployment it may cause error H12, since it takes more than 30 secs to render
