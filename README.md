@@ -26,5 +26,5 @@ pip list --format=freeze > requirements.txt
 ## To-do list:
 
 - [x] Plot a list of stocks with a line chart in Matplotlib
-- [  ] Deploy a chart in Heroku 
+- [ ] Deploy a chart in Heroku 
 - [ ] Plot a candlestick chart 
