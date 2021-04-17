@@ -20,7 +20,7 @@ ipython-genutils==0.2.0
 jedi==0.18.0
 jupyter-client==6.1.12
 jupyter-core==4.7.1
-kiwisolver @ file:///C:/ci/kiwisolver_1612282618948/work
+kiwisolver==1.3.1
 lxml==4.6.3
 matplotlib==3.4.1
 mkl-fft==1.3.0
@@ -35,14 +35,14 @@ pandas-datareader==0.9.0
 parse==1.19.0
 parso==0.8.1
 pickleshare==0.7.5
-Pillow @ file:///C:/ci/pillow_1617386319301/work
+Pillow==8.2.0
 prompt-toolkit==3.0.18
 pyee==8.1.0
 Pygments==2.8.1
-pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+pyparsing==2.4.7
 pyppeteer==0.2.5
 pyquery==1.4.3
-python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+python-dateutil==2.8.1
 pytz==2021.1
 pywin32==300
 pyzmq==22.0.3
@@ -50,9 +50,9 @@ requests==2.25.1
 requests-html==0.10.0
 sgmllib3k==1.0.0
 simplejson==3.17.2
-six @ file:///C:/ci/six_1605205426665/work
+six==1.15.0
 soupsieve==2.2.1
-tornado @ file:///C:/ci/tornado_1606935947090/work
+tornado==6.1
 tqdm==4.59.0
 traitlets==5.0.5
 urllib3==1.26.4
